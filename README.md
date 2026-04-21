@@ -42,7 +42,11 @@ The application allows users to search for weather data from a city and GitHub p
 - Jest
 
 ---
-File handling improvements completed for final submission.
+feature/documentation
+
+Additional API improvements completed.
+Documentation updates completed for final submission.
+ main
 ## Installation
 
 ```bash
