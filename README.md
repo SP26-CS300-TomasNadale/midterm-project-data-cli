@@ -42,6 +42,7 @@ The application allows users to search for weather data from a city and GitHub p
 - Jest
 
 ---
+Additional API improvements completed.
 
 ## Installation
 
