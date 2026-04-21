@@ -43,6 +43,7 @@ The application allows users to search for weather data from a city and GitHub p
 
 ---
 
+Documentation updates completed for final submission.
 ## Installation
 
 ```bash
